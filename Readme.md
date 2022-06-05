@@ -6,7 +6,7 @@
 	-51900068: Trần Công Hậu
 
 3. Link đã deploy:
-	- http://dthdoan.epizy.com
+	- http://dthstore.epizy.com
 	- Tài khoản admin: thaiad, mật khẩu: 123456
 	- Tài khoản developer 1: thaidev, mật khẩu: 123456 
 	- Tài khoản developer 2: duydev, mật khẩu: 123456 
@@ -32,19 +32,12 @@
 	(cung cấp thêm danh sách tài khoản dùng để đăng nhập: admin, developer, user...)
 
 5. Các ghi chú khác (nếu cần thiết)
-
-- Khi muốn đổi sang hosting:
-		hostname: sql301.epizy.com
-		username: epiz_28621327
-		pwd: VRcE9gn7WL8vyTQ
-		db: epiz_28621327_database
-
 - Khi muốn đổi sang localhost:
 	    	define('HOST','127.0.0.1');
     		define('USER','thaiphan');
     		define('PASS','123456');
     		define('DB','database');
 
-*Chỉnh lại dữ liệu thích hợp trong: db.php; connect.php; class/rating.php
+*Chỉnh lại dữ liệu thích hợp trong các file sau: db.php; connect.php; class/rating.php
 
 	
